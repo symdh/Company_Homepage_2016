@@ -1,0 +1,126 @@
+
+body {
+	font-family:'맑은 고딕','serif';
+
+}
+
+
+td input{
+
+	padding-left:12px;
+
+}
+
+
+#main{
+
+	width:1200px;
+	height:550px;
+}
+
+#wrapper {
+	width:800px;
+	height:550px;
+	margin:auto;
+
+}
+
+table {
+	border-spacing:10px;
+}
+
+
+.for_Center{
+	margin:auto;
+	width:180px;
+	height:50px; 
+}
+
+.for_Center input {
+	width:80px;
+	height:35px;
+	font-size:16px;
+	color:#fff;
+}
+
+
+
+
+.test {
+	margin-top:98px;
+	width:200px;
+	height:100px;
+	
+	float:left;
+}
+
+button{
+	width:80px;
+	height:25px;
+}
+
+#base {
+	
+	
+	float:left;
+
+}
+
+
+#css_passwd_cf {
+
+	font-size:12px;
+	font-family:'굴림';
+	
+}
+
+
+input {
+	height:25px;
+	
+}
+
+
+#css_check{
+	width:30px;
+	height:30px;
+
+}
+
+#for_deco{
+	text-decoration:underline;
+	vertical-align:center;
+}
+
+#for_left{
+	width:30px;
+	height:30px;
+	float:left;
+}
+
+#for_vertical{
+	width:200px;
+	height:30px;
+	padding-top: 5px;
+	margin-left: 50px;
+}
+
+.blue {
+	background-color:#337ab7;
+	border-color:#2e6da4;
+}
+
+.red {
+	background-color:#d9534f;
+	border-color:#d43f3a;
+}
+
+#css_email_cf_true{
+	color:blue;
+	font-size:10px;
+}
+
+#css_email_cf_false{
+	color:red;
+	font-size:10px;
+}

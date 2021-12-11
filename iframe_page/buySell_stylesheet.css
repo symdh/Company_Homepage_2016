@@ -1,0 +1,70 @@
+#basic_setting {
+	width:1200px;
+}
+
+
+.first_text_area {
+	margin-left:100px;
+}
+
+.sub_title {
+	font-size:23px;
+	font-weight:bold;
+	margin-left:-50px;
+}
+
+
+.sub_title_table {
+	margin-top:100px;
+	height:50px;
+	font-weight:bold;
+	font-size:18px;
+	color: red;
+
+}
+
+.for_detail {
+	margin-top:10px;
+	margin-bottom:-30px;
+}
+
+
+button {
+	font-size: 30px;
+	width: 240px;
+	height: 70px;
+}
+
+table {
+	width: 1000px;
+
+}
+
+table table {
+	width: 500px;
+}
+
+td {
+	width: 500px;
+	height:300px;
+
+}
+
+td th {
+	width: 100px;
+	height:30px;
+	border-right: 1px solid gray;
+	border-bottom: 1px solid gray;
+	
+}
+
+td td {
+	width: 250px;
+	height:30px;
+	padding-left:30px;
+	border-bottom: 1px solid gray
+}
+
+.for_blank {
+	height:40px;
+}

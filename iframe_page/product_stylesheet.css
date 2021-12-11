@@ -1,0 +1,76 @@
+#basic_setting {
+	width:1200px;
+}
+
+
+#first_text_area {
+	margin-left:100px;
+}
+
+
+.sub_title {
+	font-size:23px;
+	font-weight:bold;
+	color: blue;
+	margin-left:-50px;
+
+}
+
+hr {
+	width: 300px;
+	margin-left:0px;
+}
+
+#detail_edu {
+	margin-right:100px;
+}
+
+.edu {
+	font-size:18px;
+	text-align:right;
+}
+
+#red {
+	color:red;
+	text-decoration:none;
+}
+
+#blue {
+	color:blue;
+}
+
+button {
+	font-size: 30px;
+	width: 240px;
+	height: 70px;
+}
+
+table {
+
+	width: 1000px;
+
+}
+
+th {
+	width: 100px;
+	border-bottom: 1px solid gray;
+	background-color: rgba( 140, 140, 140, 0.2 );
+	font-size: 18px;	
+}
+
+
+td {
+
+	border-bottom: 1px solid gray;
+}
+
+
+button {
+	font-size: 30px;
+	width: 200px;
+	height: 200px;
+}
+
+img{
+	width:200px;
+}

@@ -1,0 +1,79 @@
+#base_Setting{
+	
+}
+
+
+#login #oki a{
+	font-size:12px;
+	margin-left:30px;
+	color: black;
+	
+}
+
+#login a {
+	color :white;
+	font-size:12px;
+}
+
+#menu_D {
+
+	height:100px;
+	width:1150px;
+	margin-top:-200px;
+	font-size: 14px; 
+	line-height: 10px;
+	color:white;
+	margin: auto;
+	
+	font-weight:bold;
+}
+
+#menu_Size{
+	margin-top:40px;
+	width: 1150px;
+	margin-left:auto;
+}
+
+#menu_D ul {
+	background-color: rgba( 225, 81, 72, 0.8 );
+	padding: 0px 5px;
+	border-radius: 10px;  
+	list-style: none;
+	position: relative;
+	display: inline-table;
+}
+
+#menu_D ul:after {
+		
+	clear: both; 
+	display: block;
+}
+
+#menu_D ul li {
+	width:160px;
+	float: left;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+#menu_D ul li:hover {
+	
+	
+}
+			
+#menu_D ul li:hover a {
+	
+	color: black;
+	font-size:14px;
+	
+	
+}
+		
+#menu_D ul li a {
+	display: inline-block; 
+	padding: 25px 40px;
+	color:white;
+	text-decoration: none;
+	font-weight:bold;
+}
+
