@@ -1,7 +1,7 @@
 Project Year : 2016 <br/>
 Project name : 기업 홈페이지 (팀 과제 프로젝트) <br/>
 Environment : Apache / MySQL / PHP <br/>
-Language : PHP 5 / HTML / JavaScript / CSS
+Language : PHP 5 / SQL / HTML / JavaScript / CSS
 
 설명
 - 기업 소개용 홈페이지입니다.
